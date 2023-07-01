@@ -4,6 +4,7 @@
 - Laravel v10.11.0
 - PHP v8.2.6
 - MySQL v8.0
+- Node v16
 - MariaDB v10.11
 
 # Requirements
